@@ -55,7 +55,7 @@ The following datasets were used for building the dashboards:
 
 - **Tableau** – For building the interactive dashboards.
 - **Microsoft Excel / CSV Tools** – Used for initial data exploration and cleaning.
-- **Jupyter Notebook / Python (Optional)** – For preprocessing and data transformations.
+- **Jupyter Notebook / Python ** – For preprocessing and data transformations.
 
 ---
 
