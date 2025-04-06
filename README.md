@@ -63,9 +63,8 @@ The following datasets were used for building the dashboards:
 
 | Dashboard 1: Airbnb Data Analysis | Dashboard 2: Availability & Review | Dashboard 3: Pricing Breakdown |
 |----------------------------------|-----------------------------------|-------------------------------|
-| ![Dashboard 1](Tableau_Dashboard.png) | ![Dashboard 2](Tableau_Dashboard1.png) |  ![Dashboard 3](Tableau_Dashboard1.png) |
+| ![Dashboard 1](Tableau_Dashboard.png) | ![Dashboard 2](Tableau_Dashboard1.png) |  ![Dashboard 3](Tableau_Dashboard2.png) |
 
-> ✅ *To view Dashboard 3's image, you can upload a third screenshot like `Tableau_Dashboard2.png` to your GitHub repo.*
 
 ---
 
